@@ -1,0 +1,14 @@
+{
+  "collectionName": "components_array_arrays",
+  "info": {
+    "displayName": "ShortText",
+    "icon": "bulletList",
+    "description": ""
+  },
+  "options": {},
+  "attributes": {
+    "text": {
+      "type": "string"
+    }
+  }
+}

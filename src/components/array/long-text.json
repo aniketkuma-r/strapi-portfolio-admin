@@ -1,0 +1,12 @@
+{
+  "collectionName": "components_array_long_texts",
+  "info": {
+    "displayName": "LongText"
+  },
+  "options": {},
+  "attributes": {
+    "LongText": {
+      "type": "text"
+    }
+  }
+}

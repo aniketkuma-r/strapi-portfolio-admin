@@ -1,0 +1,41 @@
+{
+  "kind": "collectionType",
+  "collectionName": "educations",
+  "info": {
+    "singularName": "education",
+    "pluralName": "educations",
+    "displayName": "Education",
+    "description": ""
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "campus": {
+      "type": "string"
+    },
+    "city": {
+      "type": "string"
+    },
+    "course": {
+      "type": "string"
+    },
+    "timeline": {
+      "type": "string"
+    },
+    "score": {
+      "type": "string"
+    },
+    "scoreType": {
+      "type": "enumeration",
+      "enum": [
+        "CGPA",
+        "Score (%)"
+      ]
+    }
+  }
+}
